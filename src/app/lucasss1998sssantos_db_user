@@ -1,0 +1,10 @@
+lucasss1998sssantos_db_user
+qeK3mmzn5z26G454
+
+
+brzuza::local.net+1000::322d33f4edf63c0884ad5f1c91d89c79b7b153c10eb84ea1c26e4d5e63e7a063
+
+
+
+stepzen import curl -X GET "https://api.api-ninjas.com/v1/exercises?muscle=chest" \
+  -H "X-Api-Key: vZwnTupb1xzoWkkdoaUnsQ==C6G7WBzPctfUCqo6"
